@@ -2,8 +2,8 @@
   "messages": [
     {
       "id": 1,
-      "user": "Richard",
-      "message": "Hello Angular! It's chat app for learning purposes."
+      "user": "Viktor",
+      "message": "Hello! It's chat app for learning purposes."
     }
   ]
 }
